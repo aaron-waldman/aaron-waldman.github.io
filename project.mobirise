@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "My Site",
+    "name": "Aaron Waldman",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
@@ -34,7 +34,9 @@
     "versionFirst": "4.7.6",
     "uniqCompNum": 11,
     "versionPublish": "4.10.8",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "favicon": "@PROJECT_PATH@/assets/images/aaron-waldman-128x161.png",
+    "noImageResize": ""
   },
   "pages": {
     "index.html": {
